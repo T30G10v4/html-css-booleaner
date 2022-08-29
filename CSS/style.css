@@ -1,9 +1,9 @@
 * {
-/*
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-*/
+
 }
 
 
@@ -24,6 +24,13 @@
 
 
 /*MAIN*/
+
+.contenuto {
+
+  margin: 10px;
+
+}
+
 h1 {
 
   margin-top: 20px;
@@ -56,6 +63,12 @@ h3 {
 
 }
 
+.quote {
+
+  font-size: 12px;
+
+}
+
 .contenuto ul {
 
   padding-inline-start: 20px;
@@ -66,6 +79,8 @@ table {
 
   border-collapse: collapse;
   text-align: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
 
 }
 
@@ -93,9 +108,24 @@ th {
 
 }
 
+.contenuto p {
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
 .contenuto p span {
 
   background-color: yellow;
+
+}
+
+/*FOOTER*/
+
+footer {
+
+  margin: 10px;
 
 }
 

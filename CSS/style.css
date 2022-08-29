@@ -6,6 +6,20 @@
 
 }
 
+.testa {
+
+  background-image: url("../IMG/pattern.png");
+  background-color: blue;
+
+}
+
+.testa img {
+
+  width: 20%;
+  margin-top: 60px;
+
+}
+
 p {
 
   color: red;

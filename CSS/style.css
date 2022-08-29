@@ -105,11 +105,20 @@ th {
   height: 250px;
   background-color: aqua;
   margin-bottom: 20px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
   
 }
 
-.primo {
+.articolo.primo {
 
   background-image: url("../IMG/monitor.jpg");
+
+}
+
+.articolo.secondo {
+
+  background-image: url("../IMG/graph.jpg");
 
 }

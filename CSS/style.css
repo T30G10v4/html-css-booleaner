@@ -61,3 +61,28 @@ h3 {
   padding-inline-start: 20px;
 
 }
+
+table {
+
+  border-collapse: collapse;
+  text-align: left;
+
+}
+
+thead {
+
+  background-color: blue;
+
+}
+
+.sfondo-azzurro {
+
+  background-color: lightblue;
+
+}
+
+.contenuto p span {
+
+  background-color: yellow;
+
+}
